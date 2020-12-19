@@ -5,7 +5,7 @@
 
 | branch | status |
 |--------|--------|
-| Travis |[![Build Status](https://travis-ci.com/mrmamongo/Lab02-cache-yuna.svg?branch=Travis)](https://travis-ci.com/github/mrmamongo/lab02-cache-yuna)|
+| Travis ||
 
 
 
